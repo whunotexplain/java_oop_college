@@ -22,20 +22,22 @@
 
 ---
 
+
 ## ✨ Дополнительные задания
 
 Дополнительные задачи находятся в папке [`laba_1/dop_problems/`](./laba_1/dop_problems/)
 
-| Вариант | Файл | Описание |
-|:-------:|------|----------|
-| 1 | [`variant_1.java`](./laba_1/dop_problems/variant_1.java) | Остаток от деления двух целых чисел |
-| 2-3 | [`variant_2.java`](./laba_1/dop_problems/variant_2.java) | Поиск минимального и максимального числа |
-| 4 | [`variant_4.java`](./laba_1/dop_problems/variant_4.java) | Вывод четных чисел в заданном диапазоне |
-| 7 | [`variant_7.java`](./laba_1/dop_problems/variant_7.java) | Проверка попадания числа в отрезок [x; y] |
-| 8 | [`variant_8.java`](./laba_1/dop_problems/variant_8.java) | Ввод трех чисел |
-| 12 | [`variant_12.java`](./laba_1/dop_problems/variant_12.java) | Определение времени года по номеру месяца |
-
----
+| Вариант | Задание | Файл | Ссылка |
+|:-------:|---------|------|:------:|
+| **1** | Найти остаток от деления двух целых чисел a и b. Числа могут быть отрицательными. | `variant_1.java` | [🔗](./laba_1/dop_problems/variant_1.java) |
+| **2** | Найти минимальное число из двух заданных чисел a и b | `variant_2.java` | [🔗](./laba_1/dop_problems/variant_2.java) |
+| **3** | Найти максимальное число из двух заданных чисел a и b | `variant_2.java` | [🔗](./laba_1/dop_problems/variant_2.java) |
+| **4** | Вывести только четные числа из двух заданных входных чисел | `variant_4.java` | [🔗](./laba_1/dop_problems/variant_4.java) |
+| **5** | Используя оператор switch вычислить количество дней в месяце (a - номер месяца, b - 1 для високосного года, 0 в противном случае) | `variant_5.java` | [🔗](./laba_1/dop_problems/variant_5.java) |
+| **6** | Даны два вещественных числа x и y. Определить x/y с проверкой деления на ноль | `variant_6.java` | [🔗](./laba_1/dop_problems/variant_6.java)|
+| **7** | Определить, попадает ли значение целой величины a в отрезок [x; y] | `variant_7.java` | [🔗](./laba_1/dop_problems/variant_7.java) |
+| **8** | Вывести в нисходящем порядке значения трех переменных x, y, z | `variant_8.java` | [🔗](./laba_1/dop_problems/variant_8.java) |
+| **9** | Задан номер месяца года. Определить его принадлежность ко времени года | `variant_9_java` | [🔗](./laba_1/dop_problems/variant_9.java) |
 
 ## 🚀 Как запустить
 
