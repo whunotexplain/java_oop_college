@@ -7,7 +7,7 @@ public class own_work_house extends JFrame {
     own_work_house (String s) {
         super(s);
         setLayout(null);
-        setSize(400,500);
+        setSize(600,600);
         setVisible(true);
         this.setDefaultCloseOperation(EXIT_ON_CLOSE);
     }
@@ -22,17 +22,17 @@ public class own_work_house extends JFrame {
         my_picture.drawPolygon(xPoints, yPoints, 3);
 
         my_picture.drawRect(200, 110, 20, 40);
-
         my_picture.drawRect(100, 180, 40, 40);
 
-        my_picture.drawRect(250, 220, 25, 60);
 
 
-        my_picture.drawOval(225, 120, 80, 120);
+        my_picture.drawLine(335, 300, 335, 250);
+        my_picture.drawLine(365, 300, 365, 250);
+        my_picture.drawOval(275, 50, 150, 200);
     }
 
     public static void main(String[] args) {
-        new own_work_house("Home sweet home");
+        new own_work_house("Home and tree");
     }
 
 }
